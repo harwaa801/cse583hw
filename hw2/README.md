@@ -1,0 +1,1 @@
+I completed the homework by following the steps in the learngitbranching activity. For most levels, I was able to work out the solution on my own with the correct number of steps. For some of them, I had to repeat the level to reduce the lines of code used to match the level's intended solution. 
